@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Marcus Vinícius!
 
-<img align="right" alt="eu" width="240px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880895506128199720/965310745002782770/WhatsApp_Image_2022-04-17_at_14.58.56.jpeg">
+<img align="right" alt="eu" width="220px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880895506128199720/965310745002782770/WhatsApp_Image_2022-04-17_at_14.58.56.jpeg">
 <p align="left">
   <ul>
     <li>😅 Bem, sou uma pessoa comum com boas ideias! Dizem por aí que sou prestativo e carismático. </li> 
