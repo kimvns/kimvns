@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/kimvns">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kimvns&locale=pt-br&layout=default&show_icons=false&custom_title=Marcus Vinícius Status&theme=dark&include_all_commits=true&count_private=true"/></li>
-<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvns&locale=pt-br&layout=default&langs_count=7&theme=dark"/></li>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimvns&locale=pt-br&layout=compact&langs_count=7&theme=dark"/></li>
 </div> 
 
 ### Tecnologias
