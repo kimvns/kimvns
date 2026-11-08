@@ -17,7 +17,8 @@ from pathlib import Path
 USERNAME = os.getenv("GITHUB_USERNAME", "kimvns")
 TOKEN = os.getenv("GITHUB_TOKEN")
 
-OUTPUT_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = Path(__file__).resolve().parents[2] / "assets"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 GRAPHQL_URL = "https://api.github.com/graphql"
 
 if not TOKEN:
