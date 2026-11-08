@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/kim-vns/" style="text-decoration:none;">
     <img border="0" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@gmail.com" style="text-decoration:none;">
+  <a href="mailto:kim.only3d@gmail.com" style="text-decoration:none;">
     <img border="0" src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
