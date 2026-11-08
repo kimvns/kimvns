@@ -36,9 +36,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add \
-            .github/workflows/contribution-calendar.svg \
-            .github/workflows/contributions-by-month.svg \
-            .github/workflows/repository-stats.svg
+            assets/contribution-calendar.svg \
+            assets/contributions-by-month.svg \
+            assets/repository-stats.svg
 
           if git diff --cached --quiet; then
             echo "Nenhuma alteração nos gráficos."
