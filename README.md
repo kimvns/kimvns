@@ -19,14 +19,14 @@
 
 ---
 
-## About
+## Sobre
 
 <div align="center">
   <table width="90%">
     <tr>
       <td width="50%" valign="top">
         <strong>Sobre mim</strong>
-        <pre><code class="language-python">def about_me():
+        <pre><code class="language-python">def sobre_mim():
     return {
         "perfil": [
             "Desenvolvimento de software",
@@ -74,7 +74,7 @@
 
 ---
 
-## Tecnologias & Ferramentas
+## Tecnologias
 
 | CATEGORIA | TECNOLOGIAS |
 |:---|:---|
@@ -91,11 +91,9 @@
 ```python
 def development_mindset():
     return {
-        "data": "Coletar, processar e organizar informações",
-        "automation": "Eliminar tarefas repetitivas",
-        "engineering": "Construir soluções confiáveis",
-        "development": "Transformar ideias em aplicações",
-        "mindset": "Aprender, experimentar e evoluir"
+        "dados": "Coletar, processar e organizar informações", "automacao": "Eliminar tarefas repetitivas",
+        "engenharia": "Construir soluções confiáveis", "desenvolvimento_software": "Transformar ideias em aplicações",
+        "mentalidade": "Aprender, experimentar e evoluir"
     }
 ```
 
