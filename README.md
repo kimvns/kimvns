@@ -19,46 +19,58 @@
 
 ---
 
-## Sobre mim
+## About
 
-```python
-def about_me():
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Sobre mim</strong>
+        <pre><code class="language-python">def about_me():
     return {
-        "interesses": [
+        "perfil": [
             "Desenvolvimento de software",
+            "Solução de problemas"
+        ],
+        "interesses": [
             "Engenharia e análise de dados",
             "Automação de processos"
         ],
-        "objetivo": "Transformar problemas em soluções práticas",
-        "filosofia": "Aprender, experimentar e evoluir"
-    }
-```
-
----
-
-## Áreas de interesse
-
-```python
-def areas_of_interest():
+        "objetivo": [
+            "Criar soluções práticas",
+            "Melhorar processos"
+        ],
+        "filosofia": [
+            "Aprender continuamente",
+            "Experimentar e evoluir"
+        ]
+    }</code></pre>
+      </td>
+      <td width="50%" valign="top">
+        <strong>Áreas de interesse</strong>
+        <pre><code class="language-python">def areas_de_interesse():
     return {
-        "data_engineering": [
-            "Integração e processamento de dados",
+        "engenharia_dados": [
+            "Integração e processamento",
             "ETL e Data Pipelines"
         ],
-        "development": [
-            "Aplicações e soluções backend",
+        "desenvolvimento": [
+            "Backend e aplicações",
             "Scripts e automação"
         ],
-        "databases": [
+        "bancos_de_dados": [
             "Modelagem e consultas",
-            "Gerenciamento de informações"
+            "Gerenciamento de dados"
         ],
-        "automation": [
+        "automacao": [
             "Workflows",
             "Otimização de processos"
         ]
-    }
-```
+    }</code></pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
