@@ -121,19 +121,6 @@ def development_mindset():
 
 ---
 
-## Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kim-vns/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:kim.only3d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
 <p align="center">
   <samp>Construindo soluções, aprendendo todos os dias.</samp>
 </p>
