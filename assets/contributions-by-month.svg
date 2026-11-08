@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="760" height="260"
+        viewBox="0 0 760 260"
+        role="img" aria-label="Monthly GitHub contributions">
+    <title>Monthly GitHub contributions</title>
+    <style>
+        text {
+            font-family: -apple-system, BlinkMacSystemFont,
+            'Segoe UI', sans-serif;
+        }
+        .title {
+            fill: #e6edf3;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .muted {
+            fill: #8b949e;
+            font-size: 11px;
+        }
+        .value {
+            fill: #e6edf3;
+            font-size: 24px;
+            font-weight: 700;
+        }
+    </style>
+
+<text x="20" y="25" class="title">Contribuições por mês</text>
+<text x="20" y="42" class="muted">Total no período: 7</text>
+<line x1="42" y1="200" x2="722" y2="200" stroke="#30363d"/>
+<rect x="54.3" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2025-12</title></rect>
+<text x="70.3" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="70.3" y="220" text-anchor="middle" class="muted">Dec</text>
+<rect x="111.0" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-01</title></rect>
+<text x="127.0" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="127.0" y="220" text-anchor="middle" class="muted">Jan</text>
+<rect x="167.7" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-02</title></rect>
+<text x="183.7" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="183.7" y="220" text-anchor="middle" class="muted">Feb</text>
+<rect x="224.3" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-03</title></rect>
+<text x="240.3" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="240.3" y="220" text-anchor="middle" class="muted">Mar</text>
+<rect x="281.0" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-04</title></rect>
+<text x="297.0" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="297.0" y="220" text-anchor="middle" class="muted">Apr</text>
+<rect x="337.7" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-05</title></rect>
+<text x="353.7" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="353.7" y="220" text-anchor="middle" class="muted">May</text>
+<rect x="394.3" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-06</title></rect>
+<text x="410.3" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="410.3" y="220" text-anchor="middle" class="muted">Jun</text>
+<rect x="451.0" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-07</title></rect>
+<text x="467.0" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="467.0" y="220" text-anchor="middle" class="muted">Jul</text>
+<rect x="507.7" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-08</title></rect>
+<text x="523.7" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="523.7" y="220" text-anchor="middle" class="muted">Aug</text>
+<rect x="564.3" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-09</title></rect>
+<text x="580.3" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="580.3" y="220" text-anchor="middle" class="muted">Sep</text>
+<rect x="621.0" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-10</title></rect>
+<text x="637.0" y="193.0" text-anchor="middle" class="muted">0</text>
+<text x="637.0" y="220" text-anchor="middle" class="muted">Oct</text>
+<rect x="677.7" y="45.0" width="32" height="155.0" rx="4" fill="#2da44e"><title>7 contribuições em 2026-11</title></rect>
+<text x="693.7" y="40.0" text-anchor="middle" class="muted">7</text>
+<text x="693.7" y="220" text-anchor="middle" class="muted">Nov</text>
+</svg>
