@@ -25,7 +25,7 @@
     </style>
 
 <text x="20" y="25" class="title">Contribuições por mês</text>
-<text x="20" y="42" class="muted">Total no período: 7</text>
+<text x="20" y="42" class="muted">Total no período: 18</text>
 <line x1="42" y1="200" x2="722" y2="200" stroke="#30363d"/>
 <rect x="54.3" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2025-12</title></rect>
 <text x="70.3" y="193.0" text-anchor="middle" class="muted">0</text>
@@ -60,7 +60,7 @@
 <rect x="621.0" y="200.0" width="32" height="0.0" rx="4" fill="#2da44e"><title>0 contribuições em 2026-10</title></rect>
 <text x="637.0" y="193.0" text-anchor="middle" class="muted">0</text>
 <text x="637.0" y="220" text-anchor="middle" class="muted">Oct</text>
-<rect x="677.7" y="45.0" width="32" height="155.0" rx="4" fill="#2da44e"><title>7 contribuições em 2026-11</title></rect>
-<text x="693.7" y="40.0" text-anchor="middle" class="muted">7</text>
+<rect x="677.7" y="45.0" width="32" height="155.0" rx="4" fill="#2da44e"><title>18 contribuições em 2026-11</title></rect>
+<text x="693.7" y="40.0" text-anchor="middle" class="muted">18</text>
 <text x="693.7" y="220" text-anchor="middle" class="muted">Nov</text>
 </svg>
